@@ -1,22 +1,15 @@
-# Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore IPython profile
 .ipython/
 
-# Ignore Jupyter configuration
 .jupyter/
 
-# Ignore local Jupyter data
 .local/share/jupyter/
-
-# Ignore npm logs
+.scikit_learn_data
 .npm/
 
-# Ignore cache files
 .cache/
 
-# Ignore other common files and folders
 *.pyc
 __pycache__/
 *.log
