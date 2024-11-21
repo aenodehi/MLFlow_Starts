@@ -1,19 +1,17 @@
+# Jupyter-related directories
 .ipynb_checkpoints/
-
 .ipython/
-
 .jupyter/
-
 .local/share/jupyter/
-scikit_learn_data/
-<<<<<<< HEAD
-=======
 
->>>>>>> 07d8d647f01f1bb5badbec247b212edb9248f9a6
+# scikit-learn data
+scikit_learn_data/
+
+# Node.js-related directories
 .npm/
 
+# Python-related files
 .cache/
-
 *.pyc
 __pycache__/
 *.log
