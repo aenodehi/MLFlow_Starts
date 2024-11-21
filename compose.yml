@@ -1,0 +1,31 @@
+services:
+  transformers-notebook:
+    build: ./
+    ports:
+      - "8000:8888"
+    environment:
+      - JUPYTER_TOKEN=iambatman
+    volumes:
+      - ./:/home/jovyan
+      - ./mlflow:/mlflow
+    networks:
+      - mlflow-network
+
+  mlflow:
+    build:
+      context: .
+      dockerfile: Dockerfile.mlflow
+    ports:
+      - "5000:5000"
+    environment:
+      - MLFLOW_BACKEND_STORE_URI=sqlite:///mlflow.db
+      - MLFLOW_DEFAULT_ARTIFACT_ROOT=/mlflow/artifacts
+    volumes:
+      - ./mlflow:/mlflow
+      # - ./:/workspace
+    networks:
+      - mlflow-network
+
+networks:
+  mlflow-network:
+
