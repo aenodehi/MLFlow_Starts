@@ -6,6 +6,10 @@
 
 .local/share/jupyter/
 scikit_learn_data/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 07d8d647f01f1bb5badbec247b212edb9248f9a6
 .npm/
 
 .cache/
