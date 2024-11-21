@@ -5,7 +5,7 @@
 .jupyter/
 
 .local/share/jupyter/
-.scikit_learn_data/
+scikit_learn_data/
 .npm/
 
 .cache/
