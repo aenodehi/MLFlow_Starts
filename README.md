@@ -24,3 +24,8 @@ Before running the project, ensure you have the following installed:
    git clone <repository-url>
    cd mlflow_starter
 
+## **Build the Docker Containers**
+```bash
+
+docker compose build
+docker compose up -d
