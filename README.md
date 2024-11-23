@@ -1,5 +1,5 @@
 # **MLflow Getting Started with Jupyter Notebook**
-![mlflow tracking](./images/MLflow%20tracking.png)
+![mlflow tracking](./images/MLflowtracking.png)
 ![mlflow](./images/mlflow.png)
 
 This project provides a hands-on guide to using **MLflow** for experiment tracking, model logging, and deployment. It is set up to run inside Docker containers, with **Jupyter Notebook** for experimentation and MLflow for tracking and managing machine learning workflows.
