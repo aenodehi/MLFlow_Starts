@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/c043ff515cf14118b5edd62a9315b689/artifacts
+end_time: 1732351885678
+entry_point_name: ''
+experiment_id: '929139454095764868'
+lifecycle_stage: active
+run_id: c043ff515cf14118b5edd62a9315b689
+run_name: angry-hound-288
+run_uuid: c043ff515cf14118b5edd62a9315b689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732351645995
+status: 3
+tags: []
+user_id: jovyan

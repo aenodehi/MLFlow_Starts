@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/fa29818e39774efa91e3ea43ffcb3e1a/artifacts
+end_time: 1732351894196
+entry_point_name: ''
+experiment_id: '929139454095764868'
+lifecycle_stage: active
+run_id: fa29818e39774efa91e3ea43ffcb3e1a
+run_name: invincible-snail-626
+run_uuid: fa29818e39774efa91e3ea43ffcb3e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732351890456
+status: 4
+tags: []
+user_id: jovyan

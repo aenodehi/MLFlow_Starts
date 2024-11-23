@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/86ca907853f54730bd5225864c326c75/artifacts
+end_time: 1732351377605
+entry_point_name: ''
+experiment_id: '929139454095764868'
+lifecycle_stage: active
+run_id: 86ca907853f54730bd5225864c326c75
+run_name: rare-lynx-863
+run_uuid: 86ca907853f54730bd5225864c326c75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732351373046
+status: 4
+tags: []
+user_id: jovyan

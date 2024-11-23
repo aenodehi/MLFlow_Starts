@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/da5c6b82d566486d9c043c46a47affe1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '929139454095764868'
+lifecycle_stage: active
+run_id: da5c6b82d566486d9c043c46a47affe1
+run_name: amusing-boar-506
+run_uuid: da5c6b82d566486d9c043c46a47affe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732352215863
+status: 1
+tags: []
+user_id: jovyan

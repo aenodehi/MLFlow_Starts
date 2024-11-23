@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/UDemy%20Final/MlFlowStarter/2-DLMLFLOW/mlruns/929139454095764868/2a0ab8f2d7c441c2abbc1ffeab16afc5/artifacts
+end_time: 1732351377603
+entry_point_name: ''
+experiment_id: '929139454095764868'
+lifecycle_stage: active
+run_id: 2a0ab8f2d7c441c2abbc1ffeab16afc5
+run_name: honorable-auk-781
+run_uuid: 2a0ab8f2d7c441c2abbc1ffeab16afc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732351373146
+status: 4
+tags: []
+user_id: jovyan
